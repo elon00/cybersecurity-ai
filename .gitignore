@@ -4,3 +4,6 @@ target/
 .DS_Store
 __pycache__/
 node_modules/
+
+# Lean 4 build artifacts
+lean_verify/.lake/
